@@ -5,3 +5,7 @@ https://webpack.js.org/guides/getting-started/
 https://www.theodinproject.com/lessons/node-path-javascript-webpack
 
 https://webpack.js.org/guides/asset-management/
+
+https://webpack.js.org/guides/output-management/
+
+https://webpack.js.org/guides/development/
