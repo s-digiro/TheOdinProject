@@ -1,6 +1,2 @@
 node_modules
-webpack-demo/dist/main.js
-webpack-demo/dist/main.js.LICENSE.txt
-webpack-demo/dist/110446af9c156a6e2748.png
-webpack-demo/dist/bundle.js
-webpack-demo/dist/bundle.js.LICENSE.txt
+dist

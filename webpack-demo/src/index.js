@@ -1,5 +1,6 @@
 import _ from 'lodash';
 import myName from './myName';
+import printMe from './print.js';
 import './style.css';
 import Cat from './cat.png';
 import Data from './data.xml';
@@ -30,6 +31,11 @@ function component() {
 
     console.log(Data);
     console.log(Notes);
+
+    const btn = document.createElement('button');
+    btn.innerHTML = 'Click me and check the console!';
+    btn.onclick = printMe;
+    element.appendChild(btn);
 
     return element;
 }
